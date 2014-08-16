@@ -1,3 +1,5 @@
+# Prototyping Your Workflow
+
 Last year the digital agency I work for, [Bluecadet][1], started a website 
 redesign project for [The Franklin Institute][1] — a renowned Philadelphia 
 science museum undergoing the largest expansion in its history. My colleagues 
